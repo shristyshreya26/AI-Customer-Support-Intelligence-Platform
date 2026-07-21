@@ -1,0 +1,28 @@
+# Core data handling
+pandas>=2.0
+numpy>=1.24
+
+# Visualization (EDA + training curves, notebooks only)
+matplotlib>=3.7
+seaborn>=0.12
+
+# Classical ML
+scikit-learn>=1.3
+xgboost>=2.0
+joblib>=1.3
+
+# Deep learning / transformers (issue classifier + emotion detector)
+torch>=2.1
+transformers>=4.36
+datasets>=2.16
+
+# Sentence embeddings (similar-ticket retrieval)
+sentence-transformers>=2.3
+
+# App
+streamlit>=1.30
+
+# LLM providers for the suggested-reply feature (optional at runtime --
+# only one is needed depending on which provider is selected in the app)
+anthropic>=0.25
+openai>=1.10
