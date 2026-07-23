@@ -172,6 +172,16 @@ AI-Customer-Support-Intelligence-Platform/
 
 ---
 
+## Pretrained Models
+
+The DistilBERT models are hosted on Hugging Face Hub.
+
+- Issue Classifier:
+  https://huggingface.co/shriiisstea/issue-classifier-distilbert
+
+- Emotion Detector:
+  https://huggingface.co/shriiisstea/emotion-detector-distilbert
+
 # ⚙️ Installation
 
 Clone the repository
