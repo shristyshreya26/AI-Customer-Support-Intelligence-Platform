@@ -1,5 +1,10 @@
 # 🤖 AI Customer Support Intelligence Platform
 
+[![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?style=flat-square)](https://ai-customer-support-intelligence-platform-seatfdgygybzmlgbwgih.streamlit.app/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow?style=flat-square)](https://huggingface.co/shriiisstea)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)]()
+
 > **An AI-powered customer support triage system that automatically classifies incoming tickets, detects customer emotions, predicts escalation risk and resolution time, retrieves similar historical tickets, and generates an AI-assisted first response — all from a single customer complaint.**
 
 ---
@@ -192,7 +197,7 @@ The DistilBERT models are hosted on Hugging Face Hub.
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/shristyshreya26/AI-Customer-Support-Intelligence-Platform.git
 cd <repo-name>
 ```
 
@@ -227,29 +232,21 @@ Run the application
 ```bash
 streamlit run streamlit_app/app.py
 ```
+On the first run, the application automatically downloads the fine-tuned DistilBERT models from Hugging Face Hub. Subsequent launches use the cached models.
 
 ---
 
-# 📁 Data & Models
+## 📁 Data & Models
 
-The `data/` and `models/` folders are **not tracked in Git** because they contain large generated artifacts.
+The repository includes the lightweight machine learning artifacts (XGBoost models, encoders, similarity index, embeddings, and datasets).
 
-To reproduce the complete pipeline:
+The two fine-tuned DistilBERT models are hosted on Hugging Face Hub and are automatically downloaded during the first application run.
 
-1. Place the raw dataset inside
+If you wish to reproduce the entire training pipeline from scratch:
 
-```
-data/raw/
-```
-
-2. Execute the notebooks sequentially
-
-```
-00 → 09
-```
-
-Each notebook automatically generates the required datasets and trained models for the next stage.
-
+1. Place the raw dataset inside `data/raw/`
+2. Execute notebooks `00 → 09` sequentially.
+   
 ---
 
 # 🤖 AI Suggested Response
@@ -305,11 +302,6 @@ Performance metrics therefore reflect evaluation on GoEmotions and should not be
 
 ---
 
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 # 👨‍💻 Author
 
