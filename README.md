@@ -3,6 +3,11 @@
 > **An AI-powered customer support triage system that automatically classifies incoming tickets, detects customer emotions, predicts escalation risk and resolution time, retrieves similar historical tickets, and generates an AI-assisted first response — all from a single customer complaint.**
 
 ---
+## 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+**https://ai-customer-support-intelligence-platform-seatfdgygybzmlgbwgih.streamlit.app/**
 
 ## 📸 Application Preview
 
