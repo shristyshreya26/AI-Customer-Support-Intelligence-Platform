@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?style=flat-square)](https://ai-customer-support-intelligence-platform-seatfdgygybzmlgbwgih.streamlit.app/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow?style=flat-square)](https://huggingface.co/shriiisstea)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)]()
 
 > **An AI-powered customer support triage system that automatically classifies incoming tickets, detects customer emotions, predicts escalation risk and resolution time, retrieves similar historical tickets, and generates an AI-assisted first response — all from a single customer complaint.**
 
