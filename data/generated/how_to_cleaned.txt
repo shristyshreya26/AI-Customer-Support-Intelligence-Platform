@@ -1,0 +1,151 @@
+1. Where can I find the button to change my profile picture on the desktop site?
+2. Could you walk me through the process of adding a second administrator to our corporate account?
+3. I am a student trying to organize my projects, how do I create a new folder in the workspace?
+4. My grandson gave me this tablet but I cannot find where to make the text bigger in your app.
+5. What are the steps to sync my calendar from my iPhone to the Windows desktop application?
+6. I need to know how to enable two-factor authentication using an authenticator app instead of SMS.
+7. Can you show me how to generate a monthly usage report for my entire department?
+8. How do I switch my billing from a monthly subscription to an annual plan to save money?
+9. I am using Linux and I need instructions on how to install the command line interface for your service.
+10. Where is the setting to disable email notifications for every single comment?
+11. Is there a way to archive old projects without deleting them permanently?
+12. I'm trying to set up a VPN on my home network, how do I make sure your app still connects properly?
+13. How do I invite my freelance designer to a specific project without giving them access to my whole account?
+14. What is the procedure for updating my credit card information before it expires next month?
+15. I am a developer and I need to know how to refresh my API tokens for the production environment.
+16. How can I change the language settings of the interface from English to Spanish?
+17. I just bought a new MacBook and I need to know how to migrate my local data to the cloud.
+18. Could you explain how to set up a custom domain for my landing pages?
+19. I am having trouble finding the option to download my data in a CSV format.
+20. How do I enable dark mode on the Android version of the app?
+21. Where do I go to see a history of all the logins on my account for security purposes?
+22. Can you tell me how to merge two duplicate contact entries in my database?
+23. I need help understanding how to apply a promo code I received in my email.
+24. How do I set up a recurring task that repeats every third Thursday of the month?
+25. What do I need to do to verify my identity for the high-tier security clearance on my account?
+26. How can I change the owner of a team if the current owner is leaving the company?
+27. I am a non-technical user and I need a simple explanation of how to connect my Google Drive.
+28. How do I set up an out-of-office auto-responder for my internal messages?
+29. Where can I find the tutorial for the advanced search filters?
+30. How do I change the default font size for all my outgoing communications?
+31. I want to know how to restrict certain users from downloading files.
+32. What is the best way to organize my tags so I can find things faster?
+33. How do I link my personal account and my business account so I can switch between them easily?
+34. Can you explain how to set up a webhook to trigger when a new lead is added?
+35. I am a first-time user and I need a tour of the main dashboard.
+36. How do I restore a file that I accidentally deleted from the trash bin?
+37. Where is the option to change my timezone so my scheduled posts go out at the right time?
+38. How do I set up a guest password for my Wi-Fi through the router management tool?
+39. Can you show me how to use the bulk edit feature to update 50 items at once?
+40. How do I disable the pop-up tips that appear every time I log in?
+41. What are the steps to integrate this with my Slack workspace?
+42. I am a teacher and I need to know how to share a read-only version of this document with my class.
+43. How do I change the notification sound for incoming alerts on my smartphone?
+44. Where can I find my account ID number for the support form?
+45. How do I set up a backup schedule so my data is saved every night?
+46. Can you explain how to use the "Drag and Drop" feature for uploading multiple images?
+47. How do I change the privacy settings on my posts so only my friends can see them?
+48. I am on a public network and I want to know how to enable the extra encryption settings.
+49. How do I clear the cache in the app if it starts acting sluggish?
+50. Where do I go to request a refund for a duplicate charge?
+51. How can I see which devices are currently logged into my account?
+52. What is the process for upgrading my storage limit?
+53. How do I create a custom template for my weekly reports?
+54. I need help figuring out how to move a project from my personal space to the team space.
+55. How do I change the thumbnail image for the video I just uploaded?
+56. Can you show me how to filter my results to only show items from the last 24 hours?
+57. How do I set up a keyboard shortcut for the "Save" function?
+58. I am an elderly user and I need to know how to use the voice-to-text feature.
+59. How do I connect my Bluetooth headphones to the app for the audio lessons?
+60. Where can I find the "Help" section within the mobile interface?
+61. How do I mute a specific conversation thread that is getting too noisy?
+62. Can you explain how to set up a "Read Receipt" for the messages I send?
+63. How do I change the currency displayed in my dashboard?
+64. What do I click to start a live broadcast?
+65. How do I set up a password hint in case I forget my login credentials?
+66. I am a business owner and I need to know how to add my company logo to the invoices.
+67. How do I disable the auto-play feature for videos in the feed?
+68. Where do I find the QR code to log in on my television?
+69. How do I set up a specific alert for when a certain keyword is mentioned?
+70. Can you show me how to adjust the microphone sensitivity in the settings?
+71. How do I change the background color of my workspace?
+72. I need to know how to export my contacts to my phone's address book.
+73. How do I set up a "Family Plan" and invite my household members?
+74. Where is the option to turn off the GPS tracking feature?
+75. How do I change the frequency of the automated summary emails?
+76. Can you explain how to use the "Split Screen" mode on the tablet app?
+77. How do I verify that my latest update was installed correctly?
+78. I am a developer and I need to know how to set up a staging environment.
+79. How do I change the billing cycle from the 1st of the month to the 15th?
+80. Where can I find the legal terms and conditions I agreed to?
+81. How do I set up an automated workflow to move completed tasks to the archive?
+82. Can you show me how to change the order of the columns in my table view?
+83. How do I enable "Do Not Disturb" mode for the weekend?
+84. I am a student and I need to know how to cite this platform in my bibliography.
+85. How do I add a caption to the photos I am uploading?
+86. Where is the setting to allow the app to run in the background?
+87. How do I set up a custom alert for when my data usage reaches 90%?
+88. Can you explain how to use the "Undo" function after I've deleted a block of text?
+89. How do I change my username without losing my follower count?
+90. I need help setting up a poll in my group chat.
+91. How do I link my LinkedIn profile to my professional bio here?
+92. Where do I go to see the status of my pending invitations?
+93. How do I set up a shortcut on my home screen for a specific file?
+94. Can you show me how to change the video quality to save data on my mobile plan?
+95. How do I enable the "High Contrast" mode for better visibility?
+96. I am a manager and I need to know how to review the activity logs of my staff.
+97. How do I set up a "Legacy Contact" for my account?
+98. Where is the option to opt-out of the beta testing program?
+99. How do I change the sorting order of my files from alphabetical to date modified?
+100. Can you explain how to use the "Picture-in-Picture" mode while browsing other apps?
+101. How do I set up a "Secret Chat" that has end-to-end encryption?
+102. I need help knowing how to transfer my subscription to a different email address.
+103. How do I change the sensitivity of the touch controls in the mobile app?
+104. Where can I find the "Refer a Friend" link to get credit?
+105. How do I set up a "Favorites" list for the items I use most often?
+106. Can you show me how to hide my online status from other users?
+107. How do I change the email address where I receive my receipts?
+108. I am a researcher and I need to know how to export the raw data for my analysis.
+109. How do I set up a "Reminder" for a task that isn't due for three months?
+110. Where is the setting to automatically download updates only when on Wi-Fi?
+111. How do I change the cover photo for my public profile?
+112. Can you explain how to use the "Search" function to find text inside a PDF?
+113. How do I set up a "Work Profile" separate from my "Personal Profile"?
+114. I need help understanding how to use the "Version History" to see old edits.
+115. How do I change the default browser that opens links from the app?
+116. Where do I go to manage my third-party app permissions?
+117. How do I set up a "Whiteboard" for a collaborative brainstorming session?
+118. Can you show me how to adjust the playback speed of the recorded meetings?
+119. How do I change the "Reply-To" address on my outgoing newsletters?
+120. I am a non-profit and I need to know how to set up a "Donate" button.
+121. How do I set up a "Locked Folder" for sensitive documents?
+122. Where is the option to change the app icon on my phone?
+123. How do I change the "Auto-Lock" timer so the app stays open longer?
+124. Can you explain how to use the "Tags" feature to categorize my expenses?
+125. How do I set up a "Sub-task" under a main project heading?
+126. I need help knowing how to change the "Privacy Level" of a shared folder.
+127. How do I set up a "Biometric Login" like FaceID or fingerprint?
+128. Where do I find the "Drafts" folder for messages I haven't sent yet?
+129. How do I change the "Welcome Message" for new members joining my group?
+130. Can you show me how to use the "Measurement Tool" in the design interface?
+131. How do I set up a "Shared Wallet" for my team's expenses?
+132. I am a creative and I need to know how to import my custom brushes.
+133. How do I change the "Time Format" from 12-hour to 24-hour?
+134. Where is the setting to enable "Offline Mode" for when I am traveling?
+135. How do I set up a "Custom Status" like "In a Meeting" or "At the Gym"?
+136. Can you explain how to use the "Formula Bar" in the spreadsheet view?
+137. How do I change the "Default View" from a list to a kanban board?
+138. I need help knowing how to "Pin" a message to the top of the chat.
+139. How do I set up an "Email Alias" so I don't give out my primary address?
+140. Where do I go to see the "Terms of Service" update summary?
+141. How do I change the "Auto-Save" frequency to every 5 minutes?
+142. Can you show me how to use the "Compare" feature to see differences between two files?
+143. How do I set up a "Keyword Trigger" for my automated responses?
+144. I am an enterprise user and I need to know how to deploy this across 500 machines.
+145. How do I change the "Notification Badge" settings on my app icon?
+146. Where is the option to "Export for Print" with high resolution?
+147. How do I set up a "Guest Account" with limited access for a temporary consultant?
+148. Can you explain how to use the "Global Search" to find things across multiple workspaces?
+149. How do I change the "Default Region" for my data storage to comply with local laws?
+150. I need help knowing how to "Unsubscribe" from the marketing SMS list.
+151. How do I set up a "Recovery Key" in case I lose access to my 2FA device?

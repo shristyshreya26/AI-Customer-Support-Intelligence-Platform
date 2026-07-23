@@ -1,0 +1,75 @@
+
+You are helping create a high-quality NLP dataset.
+
+Issue Category:
+feature_request
+
+Below are all the unique examples available in my dataset.
+
+Study them carefully.
+
+Understand the issue category.
+
+DO NOT COPY THEM.
+
+DO NOT PARAPHRASE THEM.
+
+Generate exactly 50 NEW customer support tickets.
+
+The new tickets must:
+
+• belong to the SAME issue category
+
+• describe DIFFERENT situations
+
+• be realistic
+
+• sound human
+
+• include
+
+- beginners
+- enterprise users
+- students
+- developers
+- elderly users
+- frustrated users
+- polite users
+
+Mix
+
+- short
+- medium
+- long
+
+Return ONLY the tickets.
+
+One ticket per line.
+
+No numbering.
+
+No markdown.
+
+Examples:
+
+- can you add an option to customize data export?
+- our team needs more advanced options for billing.
+- it would be great to have mobile app support in your product.
+- it would be great to have billing support in your product.
+- it would be great to have api integration support in your product.
+- it would be great to have notifications support in your product.
+- it would be great to have data export support in your product.
+- our team needs more advanced options for data export.
+- it would be great to have login auth support in your product.
+- our team needs more advanced options for analytics dashboard.
+- our team needs more advanced options for notifications.
+- our team needs more advanced options for mobile app.
+- it would be great to have analytics dashboard support in your product.
+- can you add an option to customize billing?
+- can you add an option to customize notifications?
+- can you add an option to customize api integration?
+- our team needs more advanced options for login auth.
+- can you add an option to customize mobile app?
+- our team needs more advanced options for api integration.
+- can you add an option to customize analytics dashboard?
+- can you add an option to customize login auth?

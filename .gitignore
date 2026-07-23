@@ -1,47 +1,46 @@
-# --- Data -------------------------------------------------------------
-# Raw and processed datasets are generated/downloaded, not source code.
-data/
+# --- Trained model artifacts ---
+# DistilBERT checkpoints (250MB+ each) live on Hugging Face Hub instead —
+# see README for the repo IDs. Everything else in models/ (XGBoost .pkl
+# files, encoders, similarity index, embeddings) is small enough to commit
+# directly and stays tracked in git.
+models/issue_classifier/
+models/emotion_detector/
 
-# --- Trained models / artifacts ---------------------------------------
-# DistilBERT weights, XGBoost pickles, sentence embeddings, encoders.
-models/
-*.pkl
-*.pt
-*.bin
-*.npy
-*.safetensors
+# --- Data ---
+# The raw/processed datasets can also be large; exclude by default.
+# Remove this line if your dataset is small enough to version normally.
+data/raw/
+data/processed/*.csv
 
-# --- Generated LLM prompts / augmented data ---------------------------
-prompts/
-results/
-logs/
-
-# --- Secrets ------------------------------------------------------------
-.env
-.env.*
-*.key
-
-# --- Python -------------------------------------------------------------
+# --- Python ---
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
+*.pyo
+.ipynb_checkpoints/
 *.egg-info/
 .eggs/
-build/
-dist/
 
-# --- Virtual environments -------------------------------------------------
+# --- Virtual environments ---
 venv/
-.venv/
 env/
-ENV/
+.venv/
+ai-support/
 
-# --- Jupyter --------------------------------------------------------------
-.ipynb_checkpoints/
+# --- Jupyter ---
+.ipynb_checkpoints
 
-# --- OS / editor cruft ------------------------------------------------------
+# --- OS/editor clutter ---
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
-*.swp
+
+# --- Training run outputs ---
+results/
+
+# --- Secrets (never commit API keys) ---
+.env
+*.key
+
+# --- Streamlit ---
+.streamlit/secrets.toml

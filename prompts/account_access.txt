@@ -1,0 +1,57 @@
+
+You are helping create a high-quality NLP dataset.
+
+Issue Category:
+account_access
+
+Below are all the unique examples available in my dataset.
+
+Study them carefully.
+
+Understand the issue category.
+
+DO NOT COPY THEM.
+
+DO NOT PARAPHRASE THEM.
+
+Generate exactly 50 NEW customer support tickets.
+
+The new tickets must:
+
+• belong to the SAME issue category
+
+• describe DIFFERENT situations
+
+• be realistic
+
+• sound human
+
+• include
+
+- beginners
+- enterprise users
+- students
+- developers
+- elderly users
+- frustrated users
+- polite users
+
+Mix
+
+- short
+- medium
+- long
+
+Return ONLY the tickets.
+
+One ticket per line.
+
+No numbering.
+
+No markdown.
+
+Examples:
+
+- my account was locked after multiple failed login attempts.
+- i cannot log in; the system says my password is incorrect.
+- my 2fa code is not working when i try to sign in.

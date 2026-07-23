@@ -1,0 +1,75 @@
+
+You are helping create a high-quality NLP dataset.
+
+Issue Category:
+bug
+
+Below are all the unique examples available in my dataset.
+
+Study them carefully.
+
+Understand the issue category.
+
+DO NOT COPY THEM.
+
+DO NOT PARAPHRASE THEM.
+
+Generate exactly 50 NEW customer support tickets.
+
+The new tickets must:
+
+• belong to the SAME issue category
+
+• describe DIFFERENT situations
+
+• be realistic
+
+• sound human
+
+• include
+
+- beginners
+- enterprise users
+- students
+- developers
+- elderly users
+- frustrated users
+- polite users
+
+Mix
+
+- short
+- medium
+- long
+
+Return ONLY the tickets.
+
+One ticket per line.
+
+No numbering.
+
+No markdown.
+
+Examples:
+
+- i am seeing an error message when i click on data export.
+- the billing feature is not saving my changes.
+- the page keeps crashing whenever i try to open the api integration section.
+- the page keeps crashing whenever i try to open the notifications section.
+- the page keeps crashing whenever i try to open the billing section.
+- the page keeps crashing whenever i try to open the analytics dashboard section.
+- the notifications feature is not saving my changes.
+- the mobile app feature is not saving my changes.
+- the page keeps crashing whenever i try to open the login auth section.
+- i am seeing an error message when i click on billing.
+- i am seeing an error message when i click on api integration.
+- i am seeing an error message when i click on mobile app.
+- the data export feature is not saving my changes.
+- the page keeps crashing whenever i try to open the data export section.
+- the analytics dashboard feature is not saving my changes.
+- i am seeing an error message when i click on notifications.
+- the api integration feature is not saving my changes.
+- the login auth feature is not saving my changes.
+- i am seeing an error message when i click on analytics dashboard.
+- i am seeing an error message when i click on login auth.
+- the page keeps crashing whenever i try to open the mobile app section.

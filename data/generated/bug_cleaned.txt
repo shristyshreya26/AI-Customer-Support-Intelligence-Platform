@@ -1,0 +1,152 @@
+1. The sidebar on the main dashboard is overlapping the text content when I resize my Chrome window on Windows 11.
+2. Whenever I try to upload a profile picture in the PNG format it says the file is too large even though it is only 50kb.
+3. The search bar in the help center suggests articles but when I click on them I just get a blank white page.
+4. I am using the app on a foldable phone and the layout is completely broken when the screen is fully opened.
+5. Every time I try to delete a draft the system tells me the item was removed but it reappears as soon as I refresh the screen.
+6. The dark mode setting makes all the text headers invisible because they are still being rendered in black against the dark background.
+7. I am a developer and I noticed that your API is returning a 200 OK status but the actual response body contains a JSON error message.
+8. The "Select All" checkbox in the bulk actions menu only selects the items visible on the current page instead of the whole list.
+9. The timestamp on my messages is showing as four hours ahead of my current local time even though my profile is set to Eastern Time.
+10. When I use the Safari browser on my Mac the scroll bar is completely missing from the settings menu so I can't reach the bottom.
+11. The password strength meter says my password is weak even though I've used a mix of symbols, numbers, and uppercase letters.
+12. I am trying to use the app in French but the "Submit" and "Cancel" buttons are still appearing in English.
+13. Every time I receive a push notification on my iPhone and tap it the app opens to the home screen instead of the specific message.
+14. The data visualization graph is showing negative numbers for our user count this morning which is obviously a mistake.
+15. I noticed a typo in the main header of the enterprise portal where it says "Mangement" instead of "Management."
+16. The invitation link I sent to my new team member leads to a "User Not Found" page despite the account being active in our system.
+17. The drag-and-drop feature for moving files into folders is placing the documents in the wrong directory every single time.
+18. My screen reader for my visual impairment is not announcing the labels for the radio buttons in the onboarding survey.
+19. The system is letting me create a username with special characters like hashtags even though the documentation says those are forbidden.
+20. I am stuck in an infinite loop where the app asks me to update but when I go to the Play Store there is no update available.
+21. The PDF export of my monthly report is missing the second page and just cuts off in the middle of a sentence.
+22. Whenever I try to change the font size in the editor the text just reverts back to the default size after two seconds.
+23. The "Mute" toggle for notifications is green as if it's on but I am still getting loud alerts on my desktop.
+24. I am using a Linux machine with Ubuntu and the desktop client keeps flickering every time I move my mouse over a link.
+25. The character counter for the biography section says I have 50 characters left but it won't let me type anything else.
+26. The app keeps asking for my location permissions every single time I open it even though I already selected "Always Allow."
+27. I noticed that the price displayed in the checkout cart is different from the price shown on the main product listing.
+28. The "Back" button on my Android phone closes the entire application instead of taking me to the previous menu.
+29. I am trying to link my LinkedIn profile but the pop-up window just stays gray and never loads the authorization screen.
+30. The table sorting by "Date Created" is actually sorting the items alphabetically by the month name instead of chronologically.
+31. When I hover over the icons in the toolbar the tooltips are appearing behind the main window so I can't read them.
+32. The system allowed me to invite the same person to the project five times creating five duplicate entries in the member list.
+33. I am seeing raw HTML code snippets appearing in the footer of the page instead of the usual copyright information.
+34. The auto-save indicator says my work is saved but when I logged in from my tablet all my progress from the last hour was gone.
+35. The "Forgot Password" email contains a link that expires in one minute which isn't enough time for me to even open my inbox.
+36. I am unable to click the "Accept Terms" checkbox because the legal text window won't let me scroll all the way to the bottom.
+37. The app keeps switching itself back to light mode every time I restart my computer despite my preferences.
+38. The currency symbol is showing as a question mark inside a box for all the prices on the billing page.
+39. When I try to use the keyboard shortcut for "Copy" it actually triggers the "Delete" function within the workspace.
+40. The mobile app is consuming 40% of my battery in less than an hour even when it is just running in the background.
+41. I noticed that the "Total" row at the bottom of the spreadsheet is not adding up the numbers correctly.
+42. The video player in the tutorial section has no volume controls so it plays at maximum loudness with no way to turn it down.
+43. Every time I try to add a second administrator to the account the system says "Unexpected Token" and fails.
+44. The profile page is showing my old phone number even though I received a confirmation that it was updated successfully.
+45. The "Live Chat" button is visible but when I click it nothing happens and no chat window opens up.
+46. The app crashes whenever I try to use the camera to scan a QR code on my Google Pixel.
+47. The "Remember Me" box doesn't actually work and I have to re-enter my full credentials every single day.
+48. I am getting duplicate email alerts for every single comment made on the shared document.
+49. The dropdown menu for selecting my country is missing the letter 'S' so I cannot find Sweden in the list.
+50. The progress bar for the file migration has been stuck at 92% for the last six hours without moving.
+51. I am trying to use the software on a public library computer and the security certificate is showing as expired.
+52. The "Print" button on the invoice page opens a blank tab instead of the browser's print dialogue.
+53. When I try to tag a colleague using the @ symbol the list of names appears at the very top of the screen instead of near the cursor.
+54. The system is allowing me to set a "Due Date" that is in the past which shouldn't be possible for new tasks.
+55. I noticed that the company logo in the top left corner is pixelated and looks very blurry on high-resolution monitors.
+56. The app freezes for ten seconds every time I try to switch between the "Calendar" and "List" views.
+57. The "Help" icon is blocking the "Submit" button on the mobile version of the site so I can't finish the form.
+58. The search results are showing documents that I deleted three weeks ago.
+59. I am a student and the app won't let me join my class because it says my email domain is not recognized.
+60. The "Copy to Clipboard" button says "Copied!" but when I try to paste it the clipboard is actually empty.
+61. The voice-to-text feature is cutting off after only three words every time I try to use it.
+62. When I maximize the window on my secondary monitor the app content disappears and only the background remains.
+63. The "Low Disk Space" warning is popping up even though I have over 200GB of free space on my hard drive.
+64. The system is sending me notifications for a project that I was removed from over a month ago.
+65. The "Undo" button is greyed out even though I just made a major edit to the file.
+66. The app keeps asking me to verify my email even though I already clicked the link in the confirmation message.
+67. The "Sort by Size" function in the file manager puts the 1GB files at the bottom and the 100MB files at the top.
+68. The text in the "Notes" section is running off the edge of the page instead of wrapping to the next line.
+69. Every time I try to use an emoji in a comment the entire comment gets deleted.
+70. The app won't open at all while I am connected to my corporate VPN.
+71. The "Log Out" button is completely unresponsive on the mobile app so I have to force close the app to leave.
+72. I am seeing someone else's initials in the top right corner of my private dashboard.
+73. The "Last Modified" column is showing "Invalid Date" for all the folders in the shared drive.
+74. The app is showing me a "No Internet Connection" error even though I am currently browsing other websites perfectly fine.
+75. The password reset link is taking me to a 404 Error page.
+76. The "Download All" button creates a ZIP file that is corrupted and cannot be opened.
+77. The color picker tool is returning the wrong hex codes when I try to select a custom color for my theme.
+78. The app is not letting me paste text from an external Word document into the main text area.
+79. When I try to zoom in on a photo the image becomes completely black.
+80. The "Weekly Summary" email I received today is completely empty except for the header and footer.
+81. The system is letting me create two different users with the exact same email address.
+82. The "Clear Cache" button in the settings menu is not actually deleting any of the temporary files.
+83. The app keeps switching my language preference back to Spanish even though I keep setting it to English.
+84. The "Export to CSV" function is putting all the data into a single column instead of separating it.
+85. The "Add to Favorites" star icon won't stay filled in after I click it.
+86. The app is displaying a "System Overload" message even though I am the only one using it in my office.
+87. The "Next" button in the setup wizard is disabled even though I have filled out every single required field.
+88. The app is making a strange high-pitched buzzing sound whenever I open the "Media" tab.
+89. The "Search" function is not case-sensitive for some words but is for others.
+90. The "Profile" icon is missing from the navigation bar after the latest software update.
+91. The app is showing that I have 5 unread messages but my inbox is completely empty.
+92. The "Merge Documents" feature is deleting all the formatting from the original files.
+93. The scroll speed in the app is incredibly fast making it impossible to read anything as I move down the page.
+94. The app is automatically capitalizing every single word I type in the chat box.
+95. The "Invite" button is missing for guest users even though they have been granted permission to add others.
+96. The "Audit Log" is missing all entries from between 2:00 PM and 5:00 PM yesterday.
+97. The "Compare Versions" tool is highlighting changes that don't actually exist.
+98. The "Toggle All" switch for email alerts is not working on the mobile version of the site.
+99. The app won't let me upload a file that has a space in the filename.
+100. The "Delete Account" button is hidden under the "Terms of Service" link in the footer.
+101. The app is showing me a "Trial Expired" message even though I have a lifetime subscription.
+102. The "Import Contacts" feature is swapping the first names and last names of everyone in my list.
+103. The app is crashing every time I try to change the background color of a workspace.
+104. The "Attach File" button is not responding when I try to use it on my iPad.
+105. The app is showing the wrong time for my upcoming calendar events after I traveled to a different time zone.
+106. The "Word Count" tool is including the text from the hidden comments in the total count.
+107. The "Archive" button is performing a "Permanent Delete" without asking for confirmation.
+108. The app is showing a "Loading..." message that never goes away on the analytics page.
+109. The "Share" link is generating a URL that is over 500 characters long and looks broken.
+110. The "Edit" button for my personal bio is missing from the mobile app.
+111. The app is sending me push notifications in a language I don't understand.
+112. The "Filter by Category" menu is showing categories that have zero items in them.
+113. The app is showing my location as being in the middle of the ocean.
+114. The "Sign In with Google" button is giving me a "Script Error" on my desktop.
+115. The "Download" icon is overlapping the "Close" button on the image viewer.
+116. The app is not saving my "Sort Preference" and keeps reverting to "Alphabetical."
+117. The "Feedback" form is giving me an error message when I try to submit it.
+118. The app is showing a "New Version Available" popup every five minutes even after I've already updated.
+119. The "Full Screen" mode is not actually filling the entire screen and leaves a white border.
+120. The "Copy Link" feature is adding an extra slash at the end of the URL which makes it break.
+121. The "Auto-complete" feature for email addresses is suggesting people I've never contacted before.
+122. The "Sync" icon is constantly spinning even when there is no new data to update.
+123. The app is displaying my profile name in all lowercase letters regardless of how I typed it.
+124. The "Preview" window for my blog post is showing a different layout than the actual live site.
+125. The "Report a Bug" button itself is not working.
+126. The app is showing that I am "Offline" even when I am connected to a high-speed fiber network.
+127. The "Change Password" screen is not letting me paste a password from my password manager.
+128. The "Billing History" table is missing the last three months of transactions.
+129. The "Add to Cart" button is appearing twice on every product page.
+130. The app is automatically muting my microphone every time I join a new meeting.
+131. The "Welcome" video is playing on every single page I visit instead of just the first time.
+132. The "Grid View" is cutting off the bottom half of the thumbnail images.
+133. The app is showing a "Database Error" when I try to sort my tasks by priority.
+134. The "Verify Phone Number" text message is arriving in a different language than my account settings.
+135. The "Dark Mode" toggle is missing from the quick settings menu on the Android app.
+136. The "Upload" button is not working when I try to select multiple files at once.
+137. The app is showing that I have "Unlimited" storage but then blocks me from uploading after 5GB.
+138. The "Export" button is generating an empty Excel file with no data in it.
+139. The "Search" bar is not returning any results for words that have accents like "café."
+140. The app is showing a "Session Expired" message every time I switch between tabs in my browser.
+141. The "Edit Profile" page is not letting me change my display name.
+142. The "Activity Feed" is showing the same event three times in a row.
+143. The app is crashing whenever I try to rotate a photo in the built-in editor.
+144. The "Help" documentation links are all pointing to the homepage instead of the specific articles.
+145. The "Notifications" bell icon is not showing a red dot when I have new messages.
+146. The app is showing a "Plugin Error" whenever I try to use the integration with Slack.
+147. The "Password Reset" page is not working on mobile browsers.
+148. The "Contact Support" link is opening my default mail app instead of the web-based form.
+149. The app is showing the wrong currency for my region.
+150. The "Invite" link is expiring after only one use even though it's set to "Unlimited."
+151. The app is not letting me delete a folder that is empty.
+152. The "User Statistics" page is showing 0% for everything today.

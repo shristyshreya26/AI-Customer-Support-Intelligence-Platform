@@ -4,6 +4,7 @@ import joblib
 import numpy as np
 import pandas as pd
 import torch
+from huggingface_hub import snapshot_download
 import streamlit as st
  
 from transformers import (
@@ -20,8 +21,8 @@ from sentence_transformers import SentenceTransformer
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODELS_DIR = os.path.join(BASE_DIR, "models")
  
-ISSUE_MODEL_DIR = os.path.join(MODELS_DIR, "issue_classifier")
-EMOTION_MODEL_DIR = os.path.join(MODELS_DIR, "emotion_detector")
+HF_ISSUE_REPO = "shriiisstea/issue-classifier-distilbert"
+HF_EMOTION_REPO = "shriiisstea/emotion-detector-distilbert"
  
 RESOLUTION_MODEL_PATH = os.path.join(MODELS_DIR, "resolution_category_model.pkl")
 RESOLUTION_ENCODERS_PATH = os.path.join(MODELS_DIR, "resolution_label_encoders.pkl")
@@ -141,20 +142,30 @@ def suggest_priority(ticket_text: str, sla_plan: str, customer_segment: str, pro
 # ---------------------------------------------------------------------------
 @st.cache_resource(show_spinner="Loading issue classification model (DistilBERT)...")
 def load_issue_classifier():
-    tokenizer = DistilBertTokenizerFast.from_pretrained(ISSUE_MODEL_DIR)
-    model = DistilBertForSequenceClassification.from_pretrained(ISSUE_MODEL_DIR)
+    model_dir = snapshot_download(repo_id=HF_ISSUE_REPO)
+
+    tokenizer = DistilBertTokenizerFast.from_pretrained(model_dir)
+    model = DistilBertForSequenceClassification.from_pretrained(model_dir)
     model.eval()
-    label_encoder = joblib.load(os.path.join(ISSUE_MODEL_DIR, "label_encoder.pkl"))
+
+    label_encoder = joblib.load(os.path.join(model_dir, "label_encoder.pkl"))
+
     return tokenizer, model, label_encoder
+    
  
  
 @st.cache_resource(show_spinner="Loading emotion detection model (DistilBERT)...")
 def load_emotion_detector():
-    tokenizer = AutoTokenizer.from_pretrained(EMOTION_MODEL_DIR)
-    model = AutoModelForSequenceClassification.from_pretrained(EMOTION_MODEL_DIR)
+    model_dir = snapshot_download(repo_id=HF_EMOTION_REPO)
+
+    tokenizer = AutoTokenizer.from_pretrained(model_dir)
+    model = AutoModelForSequenceClassification.from_pretrained(model_dir)
     model.eval()
-    label_encoder = joblib.load(os.path.join(EMOTION_MODEL_DIR, "label_encoder.pkl"))
+
+    label_encoder = joblib.load(os.path.join(model_dir, "label_encoder.pkl"))
+
     return tokenizer, model, label_encoder
+    
  
  
 @st.cache_resource(show_spinner="Loading resolution-time model (XGBoost)...")

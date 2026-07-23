@@ -1,0 +1,150 @@
+1. I'm just browsing around and wanted to say hello to the support team.
+2. Can you explain what the difference is between a workspace and a folder in your system?
+3. I saw your advertisement on LinkedIn and I was curious if this would work for a small gardening business.
+4. Is there a physical office I can visit in the London area if I have questions?
+5. I’m a bit overwhelmed by all the buttons on the dashboard and I don't know where to start.
+6. How do I find out which version of the software I am currently running on my Mac?
+7. I’m doing a university project on user interfaces and I’d love to ask someone a few questions about your design process.
+8. Is your platform compliant with the latest environmental sustainability standards?
+9. I accidentally closed a tutorial pop-up and I have no idea how to bring it back to finish the lesson.
+10. Can I use a stylus or an Apple Pencil to navigate the app on my iPad?
+11. What exactly happens to my data if I decide to stop using the service for a few years?
+12. I just wanted to send a quick note to say that your recent blog post about productivity was really helpful.
+13. Is there a way to change the language of the interface to something like Ancient Greek for a school project?
+14. I’m a bit confused about the terminology you use; what does "Syncing" actually mean in this context?
+15. Can you tell me more about the history of the company and who the founders are?
+16. I’m a senior citizen and I’m having a little trouble seeing the icons, are they supposed to be this small?
+17. Do you offer any kind of certification or badge that I can put on my resume after learning the tool?
+18. I think my cat stepped on my keyboard and now the sidebar has moved to the right side, how do I fix that?
+19. Is this software compatible with very old operating systems like Windows 7?
+20. I’m just checking to see if I’m talking to a real person or an artificial intelligence right now.
+21. Could you provide a link to your full terms of service and privacy policy for my legal team to review?
+22. I’m a developer and I’m curious about what programming languages you used to build this platform.
+23. What are the recommended browser settings to make sure everything looks the way it’s supposed to?
+24. I’m trying to organize my life and I’m wondering if this tool is overkill for just one person.
+25. Is there a community forum where I can chat with other people who use this app?
+26. I saw a typo on the "About Us" page and I thought you might want to know so you can fix it.
+27. How do I go about reporting a potential security concern I found while browsing the site?
+28. Can I use this app on my smart refrigerator if it has a web browser?
+29. I’m feeling a bit lost and I was wondering if there’s a video walkthrough for absolute beginners.
+30. Do you have any physical merchandise like stickers or t-shirts that I can buy?
+31. I’m a journalist and I’d like to speak with someone from your media relations department.
+32. Is there a way to see a log of all the times I have logged into my account for security reasons?
+33. I’m curious if you have any plans for a partnership with non-profit organizations in the future.
+34. What is the maximum number of people that can be in one group before it gets crowded?
+35. I’m a student and I’m looking for an internship, do you guys have any openings this summer?
+36. Is there a way to print out a physical copy of the help documentation?
+37. I’m having a hard time understanding the icons without text labels, is there a way to turn labels on?
+38. Can I change the color of the theme to something more vibrant like bright orange?
+39. I’m a researcher and I was wondering if you have any public data sets available for study.
+40. How do I find the official social media accounts for your company?
+41. I’m a bit frustrated because I can’t find the "Log Out" button on the mobile version.
+42. Is there a way to hide the activity feed so I don't get distracted by what my team is doing?
+43. I’m a first-time user and I’m just trying to figure out if this is the right tool for my needs.
+44. What is the best way to stay updated on new announcements and company news?
+45. I’m a bit confused about the difference between a "tag" and a "label" in your organization system.
+46. Can I use this software on a Chromebook at my school or does it require a full laptop?
+47. I just wanted to thank the person who helped me yesterday, they were very kind and patient.
+48. Is there a limit to how many files I can have in the "Trash" before it clears itself?
+49. I’m a developer and I’d like to know if you have a public roadmap for upcoming changes.
+50. How do I change my profile picture to a custom avatar instead of just my initials?
+51. I’m a bit worried about my privacy and I want to know exactly who can see my profile information.
+52. Can I use this app while I am on a plane without any internet connection?
+53. What are the "best practices" for setting up a new workspace for a team of ten people?
+54. I’m a student and I’m wondering if you have any resources for learning how to manage projects.
+55. Is there a way to see a summary of all the changes made to the terms of service recently?
+56. I’m a bit confused by the navigation menu, it seems to change every time I click something.
+57. Can I link my personal calendar to this app so I can see everything in one place?
+58. What is the difference between a "Private" and a "Hidden" project in your settings?
+59. I’m a developer and I’m interested in your API, where can I find the documentation for it?
+60. Is there a way to change the font size for the entire application to make it easier to read?
+61. I’m just testing the support system to see how long it takes to get a response.
+62. Do you have any local user groups in the New York area that I can join?
+63. I’m a bit overwhelmed and I think I need a human to walk me through the basic setup.
+64. Can I use this software on my Linux machine or is it only for Windows and Mac?
+65. What is the policy for account data if a user passes away?
+66. I’m a student and I’d love to know if you have any tips for staying organized during finals week.
+67. Is there a way to see all the different devices that are currently logged into my account?
+68. I’m a bit frustrated with the layout of the mobile app compared to the desktop version.
+69. Can I change the notification sounds to something more pleasant like a bird chirping?
+70. What is the best way to give feedback about the overall experience of using the app?
+71. I’m a first-time user and I’m having trouble finding the search bar on the home screen.
+72. Is there a way to export my entire account history to a PDF file for my records?
+73. I’m a developer and I’d like to know if you have an affiliate program for influencers.
+74. How do I change the time zone for my account so it matches where I am currently traveling?
+75. I’m a bit confused about how to invite my coworkers to join my new project.
+76. Can I use this app on my Apple Watch to get quick updates on the go?
+77. What is the difference between a "Member" and an "Administrator" in terms of what they can see?
+78. I’m a student and I’m looking for some case studies on how other businesses use your tool.
+79. Is there a way to permanently delete my account and all associated data right now?
+80. I’m a bit frustrated because the website looks different every time I log in.
+81. Can I change my username to something more professional than the one I picked when I was a kid?
+82. What are the system requirements for running the desktop app on an older computer?
+83. I’m a first-time user and I’m not sure if I should be using a personal or a business account.
+84. Is there a way to see which of my team members are currently online and active?
+85. I’m a developer and I’d like to know if you have a bug bounty program for security researchers.
+86. How do I find the contact information for your legal department regarding a trademark issue?
+87. I’m a bit confused by the icons in the sidebar, they don't have any tooltips when I hover over them.
+88. Can I use this software on a public computer at the library without leaving any traces?
+89. What is the best way to organize a large number of projects so they don't get cluttered?
+90. I’m a student and I’m looking for a mentor who knows how to use this platform professionally.
+91. Is there a way to disable all the animations in the app to make it feel faster?
+92. I’m a bit frustrated because I can’t find the settings menu on my Android phone.
+93. Can I change the email address associated with my account to a new one?
+94. What is the difference between a "Project" and a "Task" in your workflow?
+95. I’m a first-time user and I’m wondering if there are any keyboard shortcuts for common actions.
+96. Is there a way to see a preview of what my profile looks like to other users?
+97. I’m a developer and I’d like to know if you have a Slack community for contributors.
+98. How do I find the user ID for my account if I need to provide it for a survey?
+99. I’m a bit confused about the notification settings, I feel like I’m getting too many emails.
+100. Can I use this app on my tablet in landscape mode or does it only work in portrait?
+101. What is the best way to recover a project that I accidentally deleted a few minutes ago?
+102. I’m a student and I’m wondering if you have any templates for a school club.
+103. Is there a way to change the background image of my workspace to something personal?
+104. I’m a bit frustrated with the search function, it doesn't seem to find what I’m looking for.
+105. Can I link my Dropbox account to this app to easily share files with my team?
+106. What is the difference between a "shared" and a "public" link in your system?
+107. I’m a first-time user and I’m just trying to understand the basic philosophy of the tool.
+108. Is there a way to see a list of all the keyboard shortcuts available in the app?
+109. I’m a developer and I’d like to know if you have a CLI tool for managing projects.
+110. How do I change the default view of my dashboard from "List" to "Grid"?
+111. I’m a bit confused about the permissions for guest users, what exactly can they see?
+112. Can I use this app on my Windows phone or is that no longer supported?
+113. What is the best way to handle a project that has a lot of moving parts and different deadlines?
+114. I’m a student and I’m looking for some inspiration on how to use this for my creative portfolio.
+115. Is there a way to see a history of all the messages I’ve sent to support in the past?
+116. I’m a bit frustrated because the mobile app takes a long time to load on my old phone.
+117. Can I change the font of the text in my projects to something like Comic Sans?
+118. What is the difference between a "Status" and a "Category" for a task?
+119. I’m a first-time user and I’m wondering if there is a way to import data from another app.
+120. Is there a way to see a map of all the different server locations you use?
+121. I’m a developer and I’d like to know if you have a WordPress plugin for your service.
+122. How do I change the notification frequency so I only get a summary once a day?
+123. I’m a bit confused about how to use the "Archive" feature correctly.
+124. Can I use this app on my smart watch to set reminders for my tasks?
+125. What is the best way to collaborate with someone who doesn't have an account yet?
+126. I’m a student and I’m wondering if you have any advice for someone starting their first job.
+127. Is there a way to see a list of all the third-party integrations that are currently active?
+128. I’m a bit frustrated because I keep getting logged out of the website every time I close my browser.
+129. Can I change the layout of the dashboard to be more minimalist and less cluttered?
+130. What is the difference between a "Draft" and a "Published" project?
+131. I’m a first-time user and I’m just trying to figure out how to create my very first task.
+132. Is there a way to see a graph of my productivity over the last few months?
+133. I’m a developer and I’d like to know if you have a Python library for your API.
+134. How do I change the display name that my coworkers see when I send them a message?
+135. I’m a bit confused about the "Follow" feature, what does it actually do?
+136. Can I use this app on my Linux tablet or is it only for Android and iPad?
+137. What is the best way to organize my personal life using this tool without getting overwhelmed?
+138. I’m a student and I’m looking for some tips on how to use this for my group projects.
+139. Is there a way to see a list of all the people who have viewed my public profile?
+140. I’m a bit frustrated because the app doesn't seem to work well with my screen reader.
+141. Can I change the icon of my project to a custom emoji?
+142. What is the difference between a "Comment" and a "Note" in your system?
+143. I’m a first-time user and I’m just trying to get a feel for the user interface.
+144. Is there a way to see a list of all the upcoming features that are currently in development?
+145. I’m a developer and I’d like to know if you have a GitHub repository for your documentation.
+146. How do I change the language of the mobile app without changing my phone's settings?
+147. I’m a bit confused about the "Search" bar, it seems to only search for filenames.
+148. Can I use this app on my Kindle Fire or is it not available in the Amazon Appstore?
+149. What is the best way to get in touch with you if I have a general question?
+150. Is there a way to see a list of all the files I have uploaded to my account?

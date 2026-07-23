@@ -1,0 +1,63 @@
+
+You are helping create a high-quality NLP dataset.
+
+Issue Category:
+security_concern
+
+Below are all the unique examples available in my dataset.
+
+Study them carefully.
+
+Understand the issue category.
+
+DO NOT COPY THEM.
+
+DO NOT PARAPHRASE THEM.
+
+Generate exactly 50 NEW customer support tickets.
+
+The new tickets must:
+
+• belong to the SAME issue category
+
+• describe DIFFERENT situations
+
+• be realistic
+
+• sound human
+
+• include
+
+- beginners
+- enterprise users
+- students
+- developers
+- elderly users
+- frustrated users
+- polite users
+
+Mix
+
+- short
+- medium
+- long
+
+Return ONLY the tickets.
+
+One ticket per line.
+
+No numbering.
+
+No markdown.
+
+Examples:
+
+- i noticed a suspicious login on my account.
+- there seems to be a vulnerability in the api integration functionality.
+- there seems to be a vulnerability in the login auth functionality.
+- there seems to be a vulnerability in the analytics dashboard functionality.
+- there seems to be a vulnerability in the notifications functionality.
+- we need details about your data encryption and compliance.
+- there seems to be a vulnerability in the mobile app functionality.
+- there seems to be a vulnerability in the billing functionality.
+- there seems to be a vulnerability in the data export functionality.

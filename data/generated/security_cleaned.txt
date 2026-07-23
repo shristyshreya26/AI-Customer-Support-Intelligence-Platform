@@ -1,0 +1,153 @@
+1. I received an email notification about a login from a device in a country I have never visited, and I am worried my password has been compromised.
+2. I am an IT auditor for my company and we need to review your latest SOC2 Type II report before we can renew our enterprise contract.
+3. While testing our integration, I discovered that I can access other users' data by simply changing the ID in the URL string, which seems like a major security flaw.
+4. I found a strange file named "backdoor.txt" in my root directory after installing the latest desktop update on my Windows machine.
+5. My phone was stolen yesterday and I need to immediately terminate all active sessions and block any new logins to my personal account.
+6. Can you provide a detailed technical breakdown of how you handle data encryption at rest and in transit?
+7. I noticed that the password reset link sent to my email does not expire after use, which feels like a significant vulnerability.
+8. Someone is sending phishing emails to our employees that look exactly like your official communications; can you verify if your mail servers were breached?
+9. I am a security researcher and I have identified a potential cross-site scripting vulnerability on your main search page.
+10. Why does the Android app require permission to access my contacts and call logs when it doesn't seem necessary for the core functionality?
+11. I saw a post on a dark web forum claiming to have a leaked database of your user emails and hashed passwords.
+12. My account was locked due to too many failed login attempts, but I haven't tried to log in for weeks, which suggests a brute-force attack.
+13. Is your platform compliant with the Health Insurance Portability and Accountability Act for storing sensitive patient information?
+14. I am using a VPN on Linux and I noticed that my real IP address is leaking through the browser while using your web application.
+15. A former employee who was terminated last week still has administrative access to our company dashboard; how can we force a global logout for them?
+16. I noticed that the session tokens do not seem to invalidate even after I click the logout button on a public computer.
+17. Can you confirm if my data is being stored on servers located within the European Union to satisfy our GDPR requirements?
+18. I’m getting a "certificate is not trusted" warning in my browser when I try to access the billing section of your website.
+19. I accidentally clicked a suspicious link in a message that looked like it came from your support team and now I'm worried about malware.
+20. Is there a way to see a full audit log of every time an administrator has accessed my personal files?
+21. I found that I can bypass the two-factor authentication requirement by using the mobile app instead of the web portal.
+22. We need to sign a Data Processing Agreement with your legal team to ensure our users' privacy is protected according to California law.
+23. I noticed a significant amount of outgoing traffic from your app to an unknown IP address while my computer was idle.
+24. Can I set up a hardware security key like a YubiKey for my account because I don't trust SMS-based verification?
+25. I am a student and I think I found a way to see other people's grades in the shared workspace by inspecting the page source.
+26. My anti-virus software flagged the latest macOS installer for your app as containing a Trojan horse.
+27. How do you protect against SQL injection attacks in your custom report builder?
+28. I noticed that my full credit card number was visible in the page source code even though it was masked on the screen.
+29. Someone called me claiming to be from your security department asking for my one-time passcode; was that a legitimate call?
+30. I want to delete all my data permanently from your servers, but I want to make sure no backups or shadows of my information remain.
+31. The "Remember Me" feature on the login page seems to keep me logged in indefinitely, even on different Wi-Fi networks.
+32. I found an open S3 bucket that appears to contain sensitive documents belonging to your customers.
+33. Our company uses SAML for Single Sign-On and we noticed a flaw in how your system validates the assertions.
+34. I am worried that the "private" share link I created is being indexed by Google and showing up in search results.
+35. Does your mobile app use certificate pinning to prevent man-in-the-middle attacks on public Wi-Fi?
+36. I noticed that when I change my primary email address, no notification is sent to the old email, which makes it easy for hackers to hijack accounts.
+37. Can you explain your internal policy regarding which of your employees have the ability to view customer data?
+38. I am seeing a lot of "Unauthorized Access" errors in my server logs coming from your API's IP range.
+39. I found a way to upload an executable script in the profile picture upload field that could potentially run on your server.
+40. Is it possible to restrict my account so it can only be accessed from specific IP addresses?
+41. I am a developer and I noticed that your API responses include the full stack trace when an error occurs, which leaks internal server info.
+42. My 2FA app was wiped and I don't have my recovery codes; I need to verify my identity securely to get back into my business account.
+43. I suspect that someone has installed a keylogger on my work computer and I need to know if any of my account settings were changed recently.
+44. What is your procedure for notifying customers in the event of a confirmed data breach?
+45. I found a vulnerability where a user can escalate their own permissions from "Viewer" to "Owner" using a simple API call.
+46. I am concerned about the privacy of my data because I noticed your privacy policy mentions sharing info with third-party advertisers.
+47. Why is my browser autofilling my password into a field that isn't the login box?
+48. I noticed that the "Secure" padlock icon disappears when I navigate to certain subdomains on your site.
+49. Can you provide a list of all the sub-processors you use to handle our company's sensitive data?
+50. I received a notification that my password was found in a known data leak from another site, and I want to know if my account here is at risk.
+51. I am an elderly user and I am afraid to enter my credit card because the page says "not secure" in the corner.
+52. There is a strange pop-up appearing every time I log in that asks for my Social Security number; is this part of your new verification?
+53. I found that I can view the contents of the /admin directory just by guessing the URL.
+54. Our security team needs to conduct a penetration test on our instance of your software; who do we contact for permission?
+55. I noticed that your password requirements are very weak, allowing simple words and no special characters, which is a security risk.
+56. Can you confirm that my deleted files are actually overwritten and not just hidden from the UI?
+57. I am seeing some very strange API requests being made from my account that I did not authorize or program.
+58. Is there a way to disable the "Allow third-party integrations" setting for all users in my organization?
+59. I am worried about "session hijacking" because I am forced to use a shared computer at my university.
+60. I found a bug where I can see the email addresses of all other users in a public group even if their profiles are set to private.
+61. How do you handle the "Right to be Forgotten" for users who reside in the UK?
+62. I noticed that the mobile app doesn't require a passcode or biometric check to open, even after being closed for hours.
+63. We need to know if your infrastructure is hosted on a multi-tenant or single-tenant environment for security reasons.
+64. I discovered that the API tokens are being passed as query parameters in the URL, which means they are being logged in browser history.
+65. Someone has created a fake profile using my name and photo and is trying to scam my colleagues; how do I report this security issue?
+66. I am concerned that your desktop app doesn't have a digital signature, so my Mac keeps warning me it's from an "unidentified developer."
+67. Does your system automatically log users out after a period of inactivity to prevent unauthorized access?
+68. I found a way to bypass the paywall and access premium content, which indicates a flaw in your permission logic.
+69. We noticed that the encryption used for our data exports is an outdated and insecure algorithm.
+70. I am getting a lot of spam messages from users who shouldn't be able to find my account; is there a privacy leak?
+71. I noticed that the "Forgot Password" feature tells me if an email exists in your system or not, which allows for user enumeration.
+72. How do you ensure that data from different customers is logically separated in your database?
+73. I am a beginner and I accidentally shared my login screen during a Zoom meeting; what should I do to secure my account now?
+74. I found that I can access the raw camera feed through your web app without the browser asking for permission.
+75. Is there any way to turn off the "last seen" or "online" status for my account for privacy reasons?
+76. I am seeing a "cross-origin resource sharing" error that suggests a misconfiguration in your security headers.
+77. Can I get a report of all the failed login attempts on my account for the past 30 days?
+78. I noticed that the password field on the mobile app has an "eye" icon that shows the password in plain text, which is risky in public.
+79. What measures do you have in place to prevent DDoS attacks from taking down our business portal?
+80. I found a vulnerability that allows me to delete other people's comments in the community forum.
+81. How do I report a bug that allows for remote code execution on your servers?
+82. I am worried about my account security because I just realized I've been using the same password for ten years.
+83. I noticed that your site allows for "iFrame" embedding, which could lead to clickjacking attacks.
+84. Can you tell me which specific encryption standard (like AES-256) you use for our stored documents?
+85. I found that the "private" folders are actually accessible if you have the direct link to the file.
+86. Our company requires all vendors to support multi-factor authentication via TOTP; is this available on all plans?
+87. I am seeing some weird JavaScript errors that look like a third-party script is trying to steal cookies.
+88. Is my data encrypted before it leaves my device, or only once it reaches your servers?
+89. I found that I can change the price of an item in my cart by editing the HTML before I check out.
+90. Does your app store my login credentials in the system's secure keychain or in a local file?
+91. I am a developer and I noticed that your webhooks don't include a cryptographic signature to verify they came from you.
+92. I noticed that the "Delete Account" button doesn't actually seem to stop the recurring charges on my card.
+93. Is it possible for me to review your internal security audit logs for my company's workspace?
+94. I found a way to see the hidden metadata of files uploaded by other users, including their GPS coordinates.
+95. I am worried that my Wi-Fi at home was hacked and now someone has access to all my cloud accounts.
+96. How do you protect against "Man-in-the-Middle" attacks when users are on public hotspots?
+97. I noticed that the app doesn't notify me when a new device is linked to my account.
+98. Can you provide a copy of your Business Continuity and Disaster Recovery plan?
+99. I found a vulnerability where I can send a message that appears to be from a different user.
+100. Is there a way to force all users in my team to change their passwords every 90 days?
+101. I am seeing a lot of traffic from my account to a suspicious domain named "analytics-tracking-xyz.com."
+102. I noticed that your site doesn't use "HSTS," which makes it vulnerable to protocol downgrade attacks.
+103. How do you handle the disposal of physical hardware that once stored customer data?
+104. I found that I can bypass the "Account Verification" step by clicking the "Back" button at the right time.
+105. I am worried that my account was part of the big data breach I heard about on the news this morning.
+106. Can I restrict my API keys so they only have read-only permissions for security?
+107. I noticed that the profile settings page doesn't require a password re-entry before changing the email address.
+108. How do I know that your "Zero-Knowledge" encryption claims are actually true?
+109. I found a way to use a single-use coupon multiple times by opening several tabs at once.
+110. Is there a log I can check to see if anyone has downloaded my private data recently?
+111. I am a student and I think I found a way to bypass the "Time Limit" on my exam using a browser extension.
+112. I noticed that the cookies your site uses do not have the "Secure" or "HttpOnly" flags set.
+113. How do you ensure that your third-party developers don't have access to my live data?
+114. I found a vulnerability where I can inject my own code into the "Help" chat box.
+115. Is there a way to hide my account from the global directory so people can't search for me?
+116. I am worried that my account is being "shadow-logged" by a browser extension I installed.
+117. Can you provide the IP addresses of your servers so we can whitelist them in our firewall?
+118. I found that I can see the full names of people who have viewed my profile, even if they are in "Incognito" mode.
+119. How do you protect against "Credential Stuffing" attacks on your login portal?
+120. I noticed that the "Change Password" screen doesn't ask for my current password first.
+121. Is my data backed up in multiple geographic locations in case of a natural disaster?
+122. I found a vulnerability that allows me to see the billing history of other users in my company.
+123. How do I report a security concern if I want to remain anonymous?
+124. I am worried about the security of my account because I am using an outdated version of Windows.
+125. I noticed that your site allows for "Directory Browsing," which lets me see all the files in your assets folder.
+126. Can you confirm that your employees use multi-factor authentication to access the production environment?
+127. I found a way to bypass the "Age Verification" check on your website.
+128. Is there a way to get an alert every time someone logs into my account from a new IP?
+129. I am concerned that your app is asking for "Full Disk Access" on my Mac.
+130. How do you handle the security of data that is shared between different integrations?
+131. I found a vulnerability where I can spoof my location to access restricted content.
+132. Is it possible to set up a "Master Password" for all the sensitive sections of the app?
+133. I noticed that the "Terms of Use" doesn't mention how you handle government data requests.
+134. How do you ensure that your software updates are not tampered with during the download process?
+135. I found a way to see the private notes of other users in the collaborative editor.
+136. I am worried that my account was compromised because my "Favorites" list has been changed.
+137. Can you provide a summary of your latest third-party security assessment?
+138. I noticed that the "Remember Me" cookie contains my username in plain text.
+139. How do you protect against "Session Fixation" attacks on your website?
+140. I found a vulnerability that allows me to bypass the "Maximum Login Attempts" limit.
+141. Is there a way to encrypt the local cache of the app on my Android device?
+142. I am concerned about the security of the "Cloud Sync" feature and want to disable it.
+143. I found a way to access the "Developer Console" in the production version of the app.
+144. How do you ensure that data is securely deleted from your backups when an account is closed?
+145. I noticed that your site is still using "TLS 1.0," which is known to be insecure.
+146. Can I set up a notification for when my account permissions are modified by an admin?
+147. I found a vulnerability that allows me to see the internal IP addresses of your servers.
+148. I am worried that my account is being monitored by my employer through your app.
+149. How do you handle the reporting and patching of "Zero-Day" vulnerabilities?
+150. I found a way to bypass the "Two-Factor Authentication" using the "Account Recovery" flow.
+151. Is there a way to see a history of all the changes made to my security settings?
+152. I am concerned that your app is using a lot of data in the background, possibly for tracking.
+153. I found a vulnerability where I can access the "Debug" logs of the mobile app.

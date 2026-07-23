@@ -1,0 +1,69 @@
+
+You are helping create a high-quality NLP dataset.
+
+Issue Category:
+performance
+
+Below are all the unique examples available in my dataset.
+
+Study them carefully.
+
+Understand the issue category.
+
+DO NOT COPY THEM.
+
+DO NOT PARAPHRASE THEM.
+
+Generate exactly 50 NEW customer support tickets.
+
+The new tickets must:
+
+• belong to the SAME issue category
+
+• describe DIFFERENT situations
+
+• be realistic
+
+• sound human
+
+• include
+
+- beginners
+- enterprise users
+- students
+- developers
+- elderly users
+- frustrated users
+- polite users
+
+Mix
+
+- short
+- medium
+- long
+
+Return ONLY the tickets.
+
+One ticket per line.
+
+No numbering.
+
+No markdown.
+
+Examples:
+
+- overall performance has degraded in the last few days.
+- queries in the data export module are timing out.
+- queries in the billing module are timing out.
+- queries in the login auth module are timing out.
+- queries in the analytics dashboard module are timing out.
+- queries in the api integration module are timing out.
+- the login auth page is very slow and takes a long time to load.
+- the api integration page is very slow and takes a long time to load.
+- the notifications page is very slow and takes a long time to load.
+- queries in the mobile app module are timing out.
+- the analytics dashboard page is very slow and takes a long time to load.
+- the billing page is very slow and takes a long time to load.
+- the mobile app page is very slow and takes a long time to load.
+- queries in the notifications module are timing out.
+- the data export page is very slow and takes a long time to load.

@@ -26,3 +26,5 @@ streamlit>=1.30
 # only one is needed depending on which provider is selected in the app)
 anthropic>=0.25
 openai>=1.10
+
+huggingface_hub>=0.24

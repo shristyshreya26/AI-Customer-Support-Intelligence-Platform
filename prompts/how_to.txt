@@ -1,0 +1,75 @@
+
+You are helping create a high-quality NLP dataset.
+
+Issue Category:
+how_to
+
+Below are all the unique examples available in my dataset.
+
+Study them carefully.
+
+Understand the issue category.
+
+DO NOT COPY THEM.
+
+DO NOT PARAPHRASE THEM.
+
+Generate exactly 50 NEW customer support tickets.
+
+The new tickets must:
+
+• belong to the SAME issue category
+
+• describe DIFFERENT situations
+
+• be realistic
+
+• sound human
+
+• include
+
+- beginners
+- enterprise users
+- students
+- developers
+- elderly users
+- frustrated users
+- polite users
+
+Mix
+
+- short
+- medium
+- long
+
+Return ONLY the tickets.
+
+One ticket per line.
+
+No numbering.
+
+No markdown.
+
+Examples:
+
+- i need help setting up mobile app for my team.
+- can you explain how to configure data export properly?
+- can you explain how to configure notifications properly?
+- can you explain how to configure api integration properly?
+- can you explain how to configure billing properly?
+- i need help setting up billing for my team.
+- how can i export my data from the api integration section?
+- can you explain how to configure mobile app properly?
+- how can i export my data from the notifications section?
+- i need help setting up notifications for my team.
+- can you explain how to configure login auth properly?
+- i need help setting up analytics dashboard for my team.
+- how can i export my data from the login auth section?
+- i need help setting up login auth for my team.
+- how can i export my data from the mobile app section?
+- i need help setting up api integration for my team.
+- how can i export my data from the analytics dashboard section?
+- i need help setting up data export for my team.
+- how can i export my data from the billing section?
+- how can i export my data from the data export section?
+- can you explain how to configure analytics dashboard properly?
